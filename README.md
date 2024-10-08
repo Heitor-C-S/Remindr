@@ -6,7 +6,8 @@ Status: under construction
 
 Project Current Standpoints:
 
-#1 - Start the Project [ok]
-#2 - Create basic infrastructure []
+#1 - Start the Project (ok)
+
+#2 - Create basic infrastructure ()
 
 by H.C.S
